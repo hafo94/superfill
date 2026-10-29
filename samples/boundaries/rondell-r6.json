@@ -1,0 +1,15 @@
+{
+ "units": "m",
+ "loops": [
+  {
+   "role": "outer",
+   "circle": {
+    "center": [
+     6,
+     6
+    ],
+    "radius": 6
+   }
+  }
+ ]
+}

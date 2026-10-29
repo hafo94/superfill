@@ -1,0 +1,66 @@
+{
+ "units": "m",
+ "loops": [
+  {
+   "role": "outer",
+   "closed": true,
+   "vertices": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     30,
+     0,
+     0
+    ],
+    [
+     30,
+     18,
+     0
+    ],
+    [
+     22,
+     25,
+     0
+    ],
+    [
+     0,
+     25,
+     0
+    ]
+   ]
+  },
+  {
+   "role": "hole",
+   "circle": {
+    "center": [
+     8,
+     8
+    ],
+    "radius": 0.4
+   }
+  },
+  {
+   "role": "hole",
+   "circle": {
+    "center": [
+     18,
+     12
+    ],
+    "radius": 0.35
+   }
+  },
+  {
+   "role": "hole",
+   "circle": {
+    "center": [
+     10,
+     19
+    ],
+    "radius": 0.8
+   }
+  }
+ ]
+}

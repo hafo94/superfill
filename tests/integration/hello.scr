@@ -1,0 +1,4 @@
+; M0 integration: the plugin loads and SFHELLO runs. Paths are supplied by tools/run-integration.ps1.
+NETLOAD "%SF_ACAD_DLL%"
+SFHELLO
+QUIT N
